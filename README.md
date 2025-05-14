@@ -18,8 +18,8 @@ Este projeto é um desafio prático para treinar os conhecimentos iniciais de **
 
 ## 🔧 Tecnologias utilizadas
 
-- Java 17+
-- Spring Boot 3+
+- Java 21
+- Spring Boot 3.4.5
 - Maven
 - Lombok
 
@@ -97,8 +97,8 @@ This is a practical challenge project to train initial knowledge of **Spring Boo
 
 ## 🔧 Tech Stack
 
-* Java 17+
-* Spring Boot 3+
+* Java 21
+* Spring Boot 3.4.5
 * Maven
 * Lombok
 
